@@ -1,3 +1,7 @@
+// i/p: hai my name is krishna 
+// o/p: krishna is name my hai
+
+
 import java.util.*;
 class DS_1 {
         public static void main(String[] args) {
