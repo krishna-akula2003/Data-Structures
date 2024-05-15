@@ -1,3 +1,6 @@
+//sorting an array or commonly known as merging sorted arrays
+// i/p:5 6 7 8 1 9
+// o/p:1 5 6 7 8 9
 import java.util.*;
 class Main{
     public static void main(String[] args){
